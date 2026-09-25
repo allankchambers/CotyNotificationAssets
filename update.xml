@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="clnhbcpnibdcmnmmfejddnefnnlipegi">
-    <updatecheck codebase="https://raw.githubusercontent.com/allankchambers/CotyNotificationAssets/main/Coty_DREAM_v0.4.6.1.crx" version="0.4.6.1" />
-  </app>
-</gupdate>
